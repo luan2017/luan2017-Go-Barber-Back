@@ -1,0 +1,16 @@
+{
+  "name": "luan2017-Go-Barber-Back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luan2017/luan2017-Go-Barber-Back.git",
+  "author": "Wanderson Luan <luanpinhoo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "sucrase": "^3.12.1"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  }
+}
